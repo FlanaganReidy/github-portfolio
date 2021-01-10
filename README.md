@@ -1,3 +1,12 @@
+
+<h1>Github card app</h1> 
+
+Currently a space to work on creating a portfolio app using react. Useful information for me below.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
