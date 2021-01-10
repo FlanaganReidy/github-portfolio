@@ -1,5 +1,5 @@
 .App-logo {
-    height: 40vmin;
+    height: 60px;
     pointer-events: none;
 }
 
@@ -11,10 +11,7 @@
     justify-content: center;
     font-size: calc(10px + 2vmin);
     color: white;
-}
-
-.App-link {
-    color: #61dafb;
+    min-height: 10%;
 }
 
 @keyframes App-logo-spin {
